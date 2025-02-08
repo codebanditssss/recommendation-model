@@ -1,18 +1,23 @@
 [
     {
+        "title": "Business Development Manager",
+        "company": "K-ONN INDIA LLP",
+        "location": "Mumbai, Maharashtra"
+    },
+    {
+        "title": "Brand Manager",
+        "company": "World Of Crow",
+        "location": "Ahmedabad, Gujarat"
+    },
+    {
         "title": "Billing supervisor",
         "company": "AK Enterprises",
         "location": "Noida Sector 62, Noida, Uttar Pradesh"
     },
     {
-        "title": "Global IT Service Director",
+        "title": "Global Product Director",
         "company": "Boston Consulting Group",
         "location": "Gurugram, Haryana"
-    },
-    {
-        "title": "Procurement Lead",
-        "company": "GO DESi MANDI PRIVATE LIMITED",
-        "location": "Bengaluru District, Karnataka"
     },
     {
         "title": "Corporate General Manager",
@@ -20,9 +25,9 @@
         "location": "Delhi, Delhi"
     },
     {
-        "title": "Assistant Manager - Solar Asset Management - O&M",
-        "company": "ENGIE Energy and Services India Private Limited",
-        "location": "Pune, Maharashtra"
+        "title": "Procurement Lead",
+        "company": "GO DESi MANDI PRIVATE LIMITED",
+        "location": "Bengaluru District, Karnataka"
     },
     {
         "title": "Opening for Warehouse Manager (From E-commerce industry)",
@@ -30,14 +35,9 @@
         "location": "Gurugram, Haryana"
     },
     {
-        "title": "Administration Assistant Manager",
-        "company": "Nando's",
-        "location": "Gurugram, Haryana"
-    },
-    {
-        "title": "Store Manager",
-        "company": "Miniso",
-        "location": "Delhi, Delhi"
+        "title": "Supervisor",
+        "company": "United Timber Works",
+        "location": "Yamunanagar, Haryana"
     },
     {
         "title": "Investment Manager",
@@ -45,9 +45,14 @@
         "location": "Gurugram, Haryana"
     },
     {
-        "title": "HR Manager",
-        "company": "Exotic India Art Pvt. Ltd.",
-        "location": "Delhi, Delhi"
+        "title": "Assistant Manager - Solar Asset Management - O&M",
+        "company": "ENGIE Energy and Services India Private Limited",
+        "location": "Pune, Maharashtra"
+    },
+    {
+        "title": "Administration Assistant Manager",
+        "company": "Nando's",
+        "location": "Gurugram, Haryana"
     },
     {
         "title": "Area Manager - Operations",
@@ -55,23 +60,18 @@
         "location": "Gurgaon Road, Delhi, Delhi"
     },
     {
-        "title": "Ashram Supervisor",
-        "company": "Shriram Tinplate Resources Pvt. Ltd",
-        "location": "Vrindavan, Uttar Pradesh"
+        "title": "Gl. Change Mgr., Service Support - Tech",
+        "company": "Sandoz",
+        "location": "Telangana"
+    },
+    {
+        "title": "HR Manager",
+        "company": "Exotic India Art Pvt. Ltd.",
+        "location": "Delhi, Delhi"
     },
     {
         "title": "E-Commerce Manager",
         "company": "EOX ELECTRIC",
         "location": "Dwarka, Delhi, Delhi"
-    },
-    {
-        "title": "Accounts Manager",
-        "company": "Sakshem IT Solution Pvt Ltd",
-        "location": "Janakpuri, Delhi, Delhi"
-    },
-    {
-        "title": "Director of Product Test Hardware",
-        "company": "Infineon Technologies",
-        "location": "Bengaluru, Karnataka"
     }
 ]
