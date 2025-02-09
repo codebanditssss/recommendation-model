@@ -1,0 +1,555 @@
+{
+  "Aadithya panoli Resume.pdf": {
+    "technicalSkills": [
+      {
+        "skill": "ms office",
+        "priority": "High"
+      }
+    ],
+    "financeSkills": [
+      {
+        "skill": "accounting",
+        "priority": "High"
+      },
+      {
+        "skill": "tally",
+        "priority": "High"
+      }
+    ]
+  },
+  "Aman Document.pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "time management",
+        "priority": "Critical"
+      }
+    ]
+  },
+  "aman_singh_9090032714.pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "leadership",
+        "priority": "Critical"
+      },
+      {
+        "skill": "time management",
+        "priority": "Critical"
+      }
+    ],
+    "technicalSkills": [
+      {
+        "skill": "programming",
+        "priority": "High"
+      },
+      {
+        "skill": "software development",
+        "priority": "High"
+      },
+      {
+        "skill": "web development",
+        "priority": "High"
+      }
+    ],
+    "businessSkills": [
+      {
+        "skill": "marketing",
+        "priority": "High"
+      }
+    ],
+    "itSkills": [
+      {
+        "skill": "software development",
+        "priority": "High"
+      },
+      {
+        "skill": "web development",
+        "priority": "High"
+      }
+    ],
+    "creativeSkills": [
+      {
+        "skill": "content creation",
+        "priority": "High"
+      }
+    ]
+  },
+  "ananda cv2 (1).pdf": {
+    "softSkills": [
+      {
+        "skill": "creativity",
+        "priority": "Medium-High"
+      }
+    ]
+  },
+  "Anju Resume-SAP.pdf": {
+    "businessSkills": [
+      {
+        "skill": "marketing",
+        "priority": "High"
+      }
+    ],
+    "financeSkills": [
+      {
+        "skill": "accounting",
+        "priority": "High"
+      },
+      {
+        "skill": "tally",
+        "priority": "High"
+      },
+      {
+        "skill": "sap fico",
+        "priority": "High"
+      }
+    ]
+  },
+  "Aswathi K.pdf": {
+    "technicalSkills": [
+      {
+        "skill": "ms office",
+        "priority": "High"
+      },
+      {
+        "skill": "microsoft excel",
+        "priority": "High"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": "positive attitude",
+        "priority": "Medium-High"
+      }
+    ]
+  },
+  "Ayush Resume.docx.pdf": {
+    "businessSkills": [
+      {
+        "skill": "sales",
+        "priority": "High"
+      },
+      {
+        "skill": "entrepreneurship",
+        "priority": "High"
+      }
+    ],
+    "financeSkills": [
+      {
+        "skill": "investment",
+        "priority": "High"
+      },
+      {
+        "skill": "gst",
+        "priority": "High"
+      }
+    ]
+  },
+  "BC CV 02.7.23.pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "time management",
+        "priority": "Critical"
+      }
+    ],
+    "technicalSkills": [
+      {
+        "skill": "networking",
+        "priority": "High"
+      }
+    ],
+    "financeSkills": [
+      {
+        "skill": "tally",
+        "priority": "High"
+      },
+      {
+        "skill": "gst",
+        "priority": "High"
+      }
+    ]
+  },
+  "Beena-CV.pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "leadership",
+        "priority": "Critical"
+      },
+      {
+        "skill": "time management",
+        "priority": "Critical"
+      },
+      {
+        "skill": "critical thinking",
+        "priority": "Critical"
+      }
+    ],
+    "creativeSkills": [
+      {
+        "skill": "photography",
+        "priority": "High"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": "teamwork",
+        "priority": "Medium-High"
+      }
+    ]
+  },
+  "CV for teaching.pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "project management",
+        "priority": "Critical"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": "creativity",
+        "priority": "Medium-High"
+      }
+    ]
+  },
+  "CV Latest (1).pdf": {
+    "technicalSkills": [
+      {
+        "skill": "ms office",
+        "priority": "High"
+      },
+      {
+        "skill": "programming",
+        "priority": "High"
+      }
+    ]
+  },
+  "CV....pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "time management",
+        "priority": "Critical"
+      }
+    ]
+  },
+  "cv2023 july (1).pdf": {
+    "technicalSkills": [
+      {
+        "skill": "ms office",
+        "priority": "High"
+      },
+      {
+        "skill": "programming",
+        "priority": "High"
+      },
+      {
+        "skill": "software development",
+        "priority": "High"
+      }
+    ],
+    "itSkills": [
+      {
+        "skill": "software development",
+        "priority": "High"
+      }
+    ]
+  },
+  "CV_2024011619431121.pdf": {
+    "businessSkills": [
+      {
+        "skill": "marketing",
+        "priority": "High"
+      }
+    ],
+    "creativeSkills": [
+      {
+        "skill": "content writing",
+        "priority": "High"
+      }
+    ]
+  },
+  "CV_2024092022132886.pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "team management",
+        "priority": "Critical"
+      }
+    ],
+    "financeSkills": [
+      {
+        "skill": "tally",
+        "priority": "High"
+      }
+    ]
+  },
+  "CV_PRIYANKA DAS.pdf": {
+    "technicalSkills": [
+      {
+        "skill": "ms office",
+        "priority": "High"
+      }
+    ],
+    "businessSkills": [
+      {
+        "skill": "business administration",
+        "priority": "High"
+      }
+    ],
+    "financeSkills": [
+      {
+        "skill": "accounting",
+        "priority": "High"
+      },
+      {
+        "skill": "tally",
+        "priority": "High"
+      }
+    ]
+  },
+  "DOC-20240727-WA0001..pdf": {},
+  "DOC-20240727-WA0002..pdf": {},
+  "Gourav_Samaddar_teacher_resume.pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "critical thinking",
+        "priority": "Critical"
+      }
+    ],
+    "technicalSkills": [
+      {
+        "skill": "ms office",
+        "priority": "High"
+      }
+    ],
+    "businessSkills": [
+      {
+        "skill": "entrepreneurship",
+        "priority": "High"
+      }
+    ],
+    "creativeSkills": [
+      {
+        "skill": "multimedia",
+        "priority": "High"
+      }
+    ]
+  },
+  "Hari CV_2024-12pdf.pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "leadership",
+        "priority": "Critical"
+      }
+    ]
+  },
+  "IRINE ANNA CV.pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "critical thinking",
+        "priority": "Critical"
+      }
+    ],
+    "businessSkills": [
+      {
+        "skill": "financial management",
+        "priority": "High"
+      }
+    ],
+    "financeSkills": [
+      {
+        "skill": "accounting",
+        "priority": "High"
+      },
+      {
+        "skill": "taxation",
+        "priority": "High"
+      },
+      {
+        "skill": "cost accounting",
+        "priority": "High"
+      },
+      {
+        "skill": "tally",
+        "priority": "High"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": "adaptability",
+        "priority": "Medium-High"
+      }
+    ]
+  },
+  "JOSEPH NEW BIODATA.pdf": {},
+  "Mayuri_CV4.pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "leadership",
+        "priority": "Critical"
+      }
+    ]
+  },
+  "MY JOURNEY SO FAR.pdf": {},
+  "Nabeel CV for teaching.pdf": {
+    "businessSkills": [
+      {
+        "skill": "customer service",
+        "priority": "High"
+      }
+    ]
+  },
+  "NEETHU M V (1).pdf": {
+    "technicalSkills": [
+      {
+        "skill": "database management",
+        "priority": "High"
+      }
+    ],
+    "itSkills": [
+      {
+        "skill": "database management",
+        "priority": "High"
+      }
+    ]
+  },
+  "new cv.pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "leadership",
+        "priority": "Critical"
+      }
+    ],
+    "technicalSkills": [
+      {
+        "skill": "powerpoint",
+        "priority": "High"
+      }
+    ],
+    "financeSkills": [
+      {
+        "skill": "tally",
+        "priority": "High"
+      }
+    ]
+  },
+  "pdf&rendition=1.pdf": {
+    "languageSkills": [
+      {
+        "skill": "bilingual",
+        "priority": "Medium"
+      }
+    ]
+  },
+  "Priyanka.pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "leadership",
+        "priority": "Critical"
+      },
+      {
+        "skill": "time management",
+        "priority": "Critical"
+      }
+    ],
+    "financeSkills": [
+      {
+        "skill": "accounting",
+        "priority": "High"
+      }
+    ],
+    "hrSkills": [
+      {
+        "skill": "conflict resolution",
+        "priority": "High"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": "creativity",
+        "priority": "Medium-High"
+      },
+      {
+        "skill": "conflict resolution",
+        "priority": "Medium-High"
+      }
+    ]
+  },
+  "rashika cv.pdf": {
+    "softSkills": [
+      {
+        "skill": "flexibility",
+        "priority": "Medium-High"
+      }
+    ]
+  },
+  "Simple CV Resume.pdf": {},
+  "Smridhi Rai_CV 2022 4.pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "time management",
+        "priority": "Critical"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": "adaptability",
+        "priority": "Medium-High"
+      }
+    ]
+  },
+  "Soma_mondal_cv (1).pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "critical thinking",
+        "priority": "Critical"
+      }
+    ]
+  },
+  "Trisa Adhikary CV (2).pdf": {
+    "coreProfessionalSkills": [
+      {
+        "skill": "leadership",
+        "priority": "Critical"
+      },
+      {
+        "skill": "time management",
+        "priority": "Critical"
+      }
+    ],
+    "financeSkills": [
+      {
+        "skill": "accounting",
+        "priority": "High"
+      }
+    ]
+  },
+  "Vandana Rv.CV.pdf": {
+    "financeSkills": [
+      {
+        "skill": "accounting",
+        "priority": "High"
+      },
+      {
+        "skill": "tally",
+        "priority": "High"
+      },
+      {
+        "skill": "sap fico",
+        "priority": "High"
+      },
+      {
+        "skill": "gst",
+        "priority": "High"
+      }
+    ],
+    "hrSkills": [
+      {
+        "skill": "recruitment",
+        "priority": "High"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": "adaptability",
+        "priority": "Medium-High"
+      }
+    ]
+  }
+}
